@@ -9,7 +9,12 @@ SQL
 Jupyter Notebook
 
 **Projects** :
-Sales trend analysis
-Customer churn analysis
-Retail KPI dashboard
-Banking transaction analysis
+Load Dataset
+Data Insights & Overview
+DATA Quality
+Check Missing Values in Column
+Structuring
+EV Insights
+Council EV Counts
+Operator Market Share
+Charging Capacity Analysis
